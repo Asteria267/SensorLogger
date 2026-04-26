@@ -1,0 +1,6 @@
+rich
+psutil
+opencv-python
+numpy
+sounddevice
+keyboard
